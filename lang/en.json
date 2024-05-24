@@ -3,6 +3,7 @@
     "Kenku.KenkuAbilities": "Kenku Abilities",
     "Kenku.WeaponTraining": "Weapon Training",
     "Kenku.WeaponTrainingDesc": "A kenku is trained in the use of blackjack, crossbow, dagger, dart, shortbow, and short sword.  Kenku tend to wear light or no armor as it impedes their ability to cast spells.", 
+    "Kenku.KenkuSpells": "Kenku Spells",
     "Kenku.Luck": "A kenku (on top of being able to burn luck as normal) can also burn a point of luck to make another target unlucky.  The target gets a Will save (DC equal to the kenku’s Wisdom score), if successful the target cannot be affected by this again for 24 hours.  If the Will check fails the target has been jinxed and must roll their next attack, save, skill check twice and take the lower of the two.",
     "Kenku.Low-LightVision": "Low-Light Vision",
     "Kenku.Low-LightVisionDesc": "A kenku can see in near dark conditions normally up to 30’.",
