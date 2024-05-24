@@ -1,0 +1,32 @@
+{
+    "id": "Kenku",
+    "title": "DCC Kenku",
+    "description": "simple implementation of the kenku class in dcc",
+    "esmodules": [
+      "module/kenku.js"
+    ],
+    "styles": [
+      "styles/crawl.css"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json",
+        "flags": {}
+      }
+    ],
+    "url": "https://github.com/xaldin31/Kenku",
+    "manifest": "https://raw.githubusercontent.com/xaldin31/Kenku/main/module.json",
+    "download": "https://github.com/xaldin31/Kenku/archive/refs/heads/main.zip",  
+    "authors": [
+      {
+      "name": "xaldin31"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    }
+  }

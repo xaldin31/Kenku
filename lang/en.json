@@ -1,0 +1,16 @@
+{
+    "Kenku.Kenku": "Kenku",
+    "Kenku.KenkuAbilities": "Kenku Abilities",
+    "Kenku.WeaponTraining": "Weapon Training",
+    "Kenku.WeaponTrainingDesc": "A kenku is trained in the use of blackjack, crossbow, dagger, dart, shortbow, and short sword.  Kenku tend to wear light or no armor as it impedes their ability to cast spells.", 
+    "Kenku.Luck": "A kenku (on top of being able to burn luck as normal) can also burn a point of luck to make another target unlucky.  The target gets a Will save (DC equal to the kenku’s Wisdom score), if successful the target cannot be affected by this again for 24 hours.  If the Will check fails the target has been jinxed and must roll their next attack, save, skill check twice and take the lower of the two.",
+    "Kenku.Low-LightVision": "Low-Light Vision",
+    "Kenku.Low-LightVisionDesc": "A kenku can see in near dark conditions normally up to 30’.",
+    "Kenku.Transformation": "Transformation",
+    "Kenku.TransformationDesc": "Once a day a kenku is able to transform themselves into a human form (this human form shows all scars, corruption, and deformities that the kenku has gotten through their rough and tumble journey).",
+    "Kenku.Illusionist": "Illusionist",
+    "Kenku.IllusionistDesc": "Kenku have the ability to manipulate arcane magic and cast a limited number of spells that deal with illusions or compulsions (see available list below).  A kenku uses the normal rules of casting arcane spells (including spellburn), and can suffer any and all of the negative effects associated with dabbling in magic.  When a kenku gains the ability to cast a new spell they roll randomly (see list).",
+    "Kenku.Roguish": "Roguish",
+    "Kenku.RoguishDesc": "A kenku selects four Thieves skills at level one and levels them up as a rogue of same alignment."
+  }
+  
